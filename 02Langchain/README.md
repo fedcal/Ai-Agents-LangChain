@@ -26,6 +26,8 @@ oppure:
 .venv\Scripts\activate
 ```
 
+source .venv/bin/activate
+
 ### Disattivare il Virtual Environment
 
 Per disattivare l'ambiente virtuale:
